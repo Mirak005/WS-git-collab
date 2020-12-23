@@ -1,7 +1,12 @@
 import React from "react";
+import Karim from "./components/Karim";
 
 const App = () => {
-  return <div>Hello</div>;
+  return (
+    <div>
+      <Karim />
+    </div>
+  );
 };
 
 export default App;
