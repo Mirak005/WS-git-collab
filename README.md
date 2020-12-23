@@ -14,9 +14,9 @@ git clone [repo]
 
 4-  Go To the github repository (create pull request and merge the work )
 
-5- switch to [master]  <<git checkout [branch]>>
+5- switch to [master]  *git checkout [branch]*
 
-6- from [master] run <<git pull>> (to update your local master )
+6- from [master] run << git pull >> (to update your local master )
            
 7- switch to the [branch] with  <<git checkout [branch ]>>
 
