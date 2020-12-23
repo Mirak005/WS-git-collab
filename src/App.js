@@ -1,9 +1,14 @@
 import React from "react";
+import Hejer from "./components/Hejer";
 
 import "./App.css";
 
 const App = () => {
-  return <div>Hello World</div>;
+  return (
+    <div>
+      <Hejer />
+    </div>
+  );
 };
 
 export default App;
